@@ -4,4 +4,4 @@
 
 该代码在Win10+python3.6进行更改测试；
 
-代码解析位于：
+代码解析位于：https://chenzhen.online/2019/02/27/2019-02-27-TensorFlow%E4%B8%ADTFRecords%E6%95%B0%E6%8D%AE%E7%9A%84%E5%AD%98%E5%82%A8%E4%B8%8E%E8%AF%BB%E5%8F%96/
