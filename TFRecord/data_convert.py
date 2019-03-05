@@ -7,11 +7,11 @@ from src.tfrecord import main
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-t', '--tensorflow-data-dir', default='pic/')
+    parser.add_argument('-t', '--tensorflow-data-dir', default='data/')
     parser.add_argument('--train-shards', default=2, type=int)
     parser.add_argument('--validation-shards', default=2, type=int)
     parser.add_argument('--num-threads', default=2, type=int)
-    parser.add_argument('--dataset-name', default='satellite', type=str)
+    parser.add_argument('--dataset-name', default='my_data', type=str)
     return parser.parse_args()
 
 if __name__ == '__main__':
