@@ -10,7 +10,7 @@
 ### 使用条件
 
 目录结构：
-
+```python
 data_prepare/
   data/
     train/
